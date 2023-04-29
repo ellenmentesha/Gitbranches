@@ -1,4 +1,4 @@
-x = int(input("X: "))
+you are stupid x = int(input("X: "))
 
 y = int(input("Y: "))
 
