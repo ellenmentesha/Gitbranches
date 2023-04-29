@@ -1,3 +1,4 @@
+You are so sad 
 you are stupid x = int(input("X: "))
 
 y = int(input("Y: "))
